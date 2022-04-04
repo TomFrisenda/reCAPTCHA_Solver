@@ -93,7 +93,7 @@ def audio_save(audio):
 
 
 
-"""Function to conver audio to text"""
+"""Function to convert audio to text"""
 def translate():
     r = sr.Recognizer()
     Wav_File = sr.AudioFile("Sample_wav.wav")
