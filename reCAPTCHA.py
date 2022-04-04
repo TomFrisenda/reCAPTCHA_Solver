@@ -6,7 +6,7 @@ PURPOSE: Automate reCAPTCHA by leveraging speech recognition library
 PRE-REQUISITES:
 *Chrome installed with chrome drive that supports the chrome version - https://chromedriver.chromium.org/downloads
 *update driver code to the path of your own chromedriver (line 106)
-*Enter CMD line argument of position [1] for target URL , or leave blank to run on test side
+*Enter CMD line argument of position [1] for target URL , or leave blank to run on test site
 
 """
 # Standard python libraries
