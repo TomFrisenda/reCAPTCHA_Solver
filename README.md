@@ -16,7 +16,7 @@ PRE-REQUISITES:
 
 *if you get "-!-Audio did not download correctly-!-" , ffmpeg is not installed correctly! (tricky on windows , but apt-get install ffmpeg works fine on linux!!!)
 
-*usage : python3 reCaptcha_TF304.py  - runs script with default test site supplied
-	 python3 reCaptcha_TF304.py www.siteyouwanttotest.com  - runs script on www.siteyouwanttotest.com
+*usage : python3 reCAPTCHA.py  - runs script with default test site supplied
+	 python3 reCAPTCHA.py www.siteyouwanttotest.com  - runs script on www.siteyouwanttotest.com
   
 * Demo https://www.youtube.com/watch?v=PHs3j61rC-I
