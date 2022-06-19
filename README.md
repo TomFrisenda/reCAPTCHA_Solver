@@ -20,3 +20,5 @@ PRE-REQUISITES:
 	 python3 reCAPTCHA.py www.siteyouwanttotest.com  - runs script on www.siteyouwanttotest.com
   
 * Demo https://www.youtube.com/watch?v=PHs3j61rC-I
+
+Disclaimer: I do not condone using this script for any purpose other than education or research. Please use this responsibly, I created this for research purposes and released this for the academic/ research community, and will not be held accountable for any illegal/nefarious use, as this is down the judgment of the induvidual.
